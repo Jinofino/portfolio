@@ -1,14 +1,14 @@
 # Design brief
 
-Source: the default brief that ships with the template (no Stitch design).
-Mood: calm, warm, precise. A quiet page like a well-set book: the person's words and work come first, not the decoration.
+Source: the interview, without Stitch
+Mood: interessante, impressivo, tech. An elegant balance between classic typography and modern clarity: content leads effortlessly, accompanied by thoughtful spacing and subtle technological touches.
 
 ## Style
 
-- Style: Classic.
-- Feel: calm, warm, precise.
-- Personal detail: none. The default design has no personal detail; the Designer's interview gives you yours.
-- Motion: almost none. When the visitor prefers reduced motion, nothing moves.
+- Style: Classic, with a Modern touch: generous whitespace and borderless list layouts.
+- Feel: interessante, impressivo, tech.
+- Personal detail: a subtle court-arc curve divider inspired by basketball court lines between sections.
+- Motion: subtle and short: things settle quietly into place. When the visitor prefers reduced motion, nothing moves.
 
 ## Colours
 
@@ -18,7 +18,7 @@ Mood: calm, warm, precise. A quiet page like a well-set book: the person's words
 | surface | #eee7dc | #26201c | the photo's backdrop, the rare box |
 | text | #231e1a | #eee6dc | headings and body text |
 | muted | #675c52 | #b3a698 | headline under the name, dates, captions, hairlines |
-| accent | #a8402f | #f0937d | links, focus ring: ink red |
+| accent | #1e6b8a | #8ecae6 | links, focus ring, buttons: slate cerulean (light) / pastel blue (dark) |
 | on-accent | #ffffff | #1b1714 | text on an accent-coloured button |
 
 ## Type
@@ -32,21 +32,21 @@ Mood: calm, warm, precise. A quiet page like a well-set book: the person's words
 ## Shapes
 
 - Corner radius: none; only the photo is round.
-- Borders: hairlines, 1px in the muted colour thinned out, between the sections and between the projects.
+- Borders: hairlines, 1px in the muted colour thinned out, between the sections and between items.
 - Shadows: none.
 
 ## Layout
 
-- One narrow column, at most 38rem wide, centred, text flush left, with 1.25rem space at the sides on phones.
-- 4rem between sections, with a hairline between them; 1.5rem between items in a list.
-- Projects: a list, one below the other, separated by hairlines; no cards and no columns.
+- One column, at most 42rem wide, centred, text flush left, with 1.5rem space at the sides on phones.
+- 4rem between sections; generous breathing room between items.
+- Projects: a borderless clean list, one below the other; no cards.
 
 ## Components
 
-- Links: accent colour, underlined a little below the text; the underline disappears on hover, and keyboard focus shows a 2px accent ring.
-- Projects: title as a project heading, one sentence, then the links to the code and the live site as text links.
-- Skills: one plain line, separated by commas.
-- Section headings: plain text in the heading font; the hairline above the section is the only line.
+- Links: accent colour, clean underline on hover, keyboard focus shows a 2px accent ring.
+- Projects: title as a project heading, one sentence, then the links to the code and live demo.
+- Skills: clean minimal tag list in muted text with subtle hairline separators.
+- Section headings: plain text in the heading font; fine divider above each section.
 - The headline under the name: in the heading font's italic, in the muted colour.
 
 ## Signature
@@ -57,7 +57,6 @@ Mood: calm, warm, precise. A quiet page like a well-set book: the person's words
 
 ## Sections
 
-1. `bio`: the name, the headline and the bio.
-2. `projects`: the sample person looks for a job, so the projects lead.
-3. `links`: GitHub, LinkedIn and email.
-4. `cv`: experience, education and skills.
+1. `bio`: the name, headline, pitch, availability and bio.
+2. `cv`: education, work experience, and skills (leads directly as the person is looking for a junior developer role).
+3. `links`: contact links (LinkedIn, Email, Telefono).

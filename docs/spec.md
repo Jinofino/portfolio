@@ -1,27 +1,32 @@
 # Site spec
 
-Written by the Analyst from: interview. This is the spec of the sample person, Ada Example, who is fictional. The Analyst role replaces it with yours.
+Written by the Analyst from: CV.
 
 ## Who
-Ada Example, frontend developer who likes fast, accessible web pages.
+Samuele De Poli, AI Integration | Junior Software Developer.
+
+## Goal
+Find a job: entry-level opportunities, junior role, apprenticeship or internship.
 
 ## For whom
-Recruiters and teams hiring a junior frontend developer.
+(a guess) Tech recruiters, engineering managers, and software companies looking for junior developers with skills in web development and AI integration.
 
 ## What a visitor should do
-Look at the projects on GitHub, then write an email.
+(a guess) Reach out via email or LinkedIn to discuss junior software developer opportunities.
 
 ## Language
-English (en).
+Italian (it).
 
 ## Sections
-- Bio: two paragraphs.
-- Projects: two.
-- Links: GitHub, LinkedIn, email.
-- CV: experience, education and skills.
+- First screen: pitch, availability ("Disponibile per opportunità junior, apprendistato o stage."), city (Spinea, Italia) and languages (Italian, English, Spanish).
+- Bio: 2 paragraphs detailing academic background in Multimedia Science and Technology, interest in AI API integration and web development, and goal to join a stimulating team.
+- Projects: none yet.
+- Links: LinkedIn, Email, Phone number.
+- CV: experience (4 entries: Cisalfa, Bistrot 55, Catering, Campi Scuola), education (4 entries: LM-18, L-31, Ca' Foscari, Liceo Stefanini), and skills (GDScript, API REST, Prompt Engineering, Python, SQL, JavaScript, HTML, CSS).
+- Certifications and events: none.
 
 ## Left out on purpose
-Nothing.
+The thesis project ("Integrazione di Modelli Linguistici di Grandi Dimensioni in Godot Engine: Sviluppo di un Plugin Modulare") was left out of the projects section because it lacks a public GitHub repository URL required by the schema; it is reflected in the bio and skills. Driving license and basketball hobby omitted to keep the portfolio focused on tech roles.
 
 ## Later
-A blog, as an optional module.
+nothing yet.
